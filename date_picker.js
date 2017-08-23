@@ -1,3 +1,7 @@
 $(function () {
-    $('#datetimepicker1').datetimepicker();
-});
+    var bindDatePicker = function() {
+         $(".date").datetimepicker()}
+
+    
+    bindDatePicker();
+  });
